@@ -1,0 +1,540 @@
+L001;Concordância de São Gemil;Sem nome #19;PORTO;Ermesinde;PORTO;1960;1985
+L002;Concordância de São Gemil;São Gemil;PORTO;Sem nome #19;PORTO;3015;1987
+L003;Ramal de Braga;Couto de Cambeses;BRAGA;Louro;BRAGA;5660;1974
+L004;Ramal de Braga;Couto de Cambeses;BRAGA;Arentim;BRAGA;2105;1989
+L005;Ramal de Braga;Arentim;BRAGA;Ruílhe;BRAGA;1305;1988
+L006;Ramal de Braga;Ruílhe;BRAGA;Tadim;BRAGA;1659;1978
+L007;Ramal de Braga;Tadim;BRAGA;Aveleda;BRAGA;1774;1979
+L008;Ramal de Braga;Aveleda;BRAGA;Mazagão;BRAGA;1189;2018
+L009;Ramal de Braga;Mazagão;BRAGA;Ferreiros;BRAGA;1487;1995
+L010;Ramal de Braga;Braga;BRAGA;Ferreiros;BRAGA;2100;2001
+L011;Linha de Cintura;Alcantâra-Mar;LISBOA;Alcantâra-Terra;LISBOA;739;1991
+L012;Linha de Leixões;São Gemil;PORTO;Contumil;PORTO;3884;2020
+L013;Linha de Leixões;São Mamede de Infesta;PORTO;São Gemil;PORTO;3710;2019
+L014;Linha de Leixões;Leça do Bailio;PORTO;São Mamede de Infesta;PORTO;3006;2018
+L015;Linha de Leixões;Leixões;PORTO;Leça do Bailio;PORTO;7930;1996
+L016;Concordância de Norte Setil;Santana - Cartaxo;SANTARÉM;Morgado;SANTARÉM;6502;1994
+L017;Ramal de Tomar;Soudos-Vila Nova;SANTARÉM;Carrascal-Delongo;SANTARÉM;1096;2006
+L018;Ramal de Tomar;Carrascal-Delongo;SANTARÉM;Curvaceiras;SANTARÉM;3263;2003
+L019;Ramal de Tomar;Curvaceiras;SANTARÉM;Santa Cita;SANTARÉM;3387;2019
+L020;Ramal de Tomar;Carvalhos de Figueiredo;SANTARÉM;Santa Cita;SANTARÉM;2170;2002
+L021;Ramal de Tomar;Carvalhos de Figueiredo;SANTARÉM;Tomar;SANTARÉM;3513;1997
+L022;Linha de Cintura;Alcantâra-Terra;LISBOA;Sete Rios;LISBOA;3841;2013
+L023;Linha de Cintura;Sete Rios;LISBOA;Entrecampos Poente;LISBOA;1308;2020
+L024;Linha de Cintura;Entrecampos Poente;LISBOA;Entrecampos;LISBOA;567;2017
+L025;Linha de Cintura;Entrecampos;LISBOA;Roma - Areeiro;LISBOA;1078;2019
+L026;Linha de Cintura;Roma - Areeiro;LISBOA;Chelas;LISBOA;1713;2000
+L027;Linha de Cintura;Chelas;LISBOA;Marvila;LISBOA;999;2012
+L028;Linha de Cintura;Marvila;LISBOA;Braço de Prata;LISBOA;809;2003
+L029;Concordância da Funcheira;Torre Vã;BEJA;Panóias;BEJA;15763;1995
+L030;Linha da Beira Baixa;Tramagal;SANTARÉM;Alferrarede;SANTARÉM;11195;2013
+L031;Linha da Beira Baixa;Alferrarede;SANTARÉM;Mouriscas-A;SANTARÉM;7982;2017
+L032;Linha da Beira Baixa;Mouriscas-A;SANTARÉM;Mouriscas;SANTARÉM;1764;2013
+L033;Linha da Beira Baixa;Mouriscas;SANTARÉM;Alvega-Ortiga;SANTARÉM;3681;2005
+L034;Linha da Beira Baixa;Alvega-Ortiga;SANTARÉM;Barragem de Belver;SANTARÉM;4533;2015
+L035;Linha da Beira Baixa;Barragem de Belver;SANTARÉM;Belver;PORTALEGRE;3970;2015
+L036;Linha da Beira Baixa;Belver;PORTALEGRE;Barca da Amieira Envendos;SANTARÉM;13482;2014
+L037;Linha da Beira Baixa;Fratel;CASTELO BRANCO;Ródão;CASTELO BRANCO;6758;2003
+L038;Linha da Beira Baixa;Ródão;CASTELO BRANCO;Tojeirinha;CASTELO BRANCO;8547;1996
+L039;Linha da Beira Baixa;Tojeirinha;CASTELO BRANCO;Sarnadas;CASTELO BRANCO;7623;1994
+L040;Linha da Beira Baixa;Sarnadas;CASTELO BRANCO;Retaxo;CASTELO BRANCO;3338;1996
+L041;Linha da Beira Baixa;Retaxo;CASTELO BRANCO;Benquerenças;CASTELO BRANCO;3430;1996
+L042;Linha da Beira Baixa;Benquerenças;CASTELO BRANCO;Alcains;CASTELO BRANCO;20333;2002
+L043;Linha da Beira Baixa;Alcains;CASTELO BRANCO;Lardosa;CASTELO BRANCO;7711;2017
+L044;Linha da Beira Baixa;Soalheira;CASTELO BRANCO;Lardosa;CASTELO BRANCO;4671;1996
+L045;Linha da Beira Baixa;Castelo Novo;CASTELO BRANCO;Soalheira;CASTELO BRANCO;5101;2006
+L046;Linha da Beira Baixa;Alpedrinha;CASTELO BRANCO;Castelo Novo;CASTELO BRANCO;4262;2010
+L047;Linha da Beira Baixa;Alpedrinha;CASTELO BRANCO;Vale dos Prazeres;CASTELO BRANCO;3980;2015
+L048;Linha da Beira Baixa;Fatela-Penamancor;CASTELO BRANCO;Vale dos Prazeres;CASTELO BRANCO;6268;2019
+L049;Linha da Beira Baixa;Alcaide;CASTELO BRANCO;Fatela-Penamancor;CASTELO BRANCO;3905;2014
+L050;Linha da Beira Baixa;Donas;CASTELO BRANCO;Alcaide;CASTELO BRANCO;2217;1990
+L051;Linha da Beira Baixa;Fundão;CASTELO BRANCO;Donas;CASTELO BRANCO;2335;1990
+L052;Linha da Beira Baixa;Fundão;CASTELO BRANCO;Alcaria;CASTELO BRANCO;7744;2016
+L053;Linha da Beira Baixa;Alcaria;CASTELO BRANCO;Tortosendo;CASTELO BRANCO;5062;2003
+L054;Linha da Beira Baixa;Tortosendo;CASTELO BRANCO;Covilhã;CASTELO BRANCO;4867;2006
+L055;Linha da Beira Baixa;Covilhã;CASTELO BRANCO;Caria;CASTELO BRANCO;13719;1996
+L056;Linha da Beira Baixa;Caria;CASTELO BRANCO;Belmonte-Manteigas;CASTELO BRANCO;4326;2009
+L057;Linha da Beira Baixa;Maçainhas;CASTELO BRANCO;Benespera;GUARDA;5858;2004
+L058;Linha da Beira Baixa;Benespera;GUARDA;Sabugal;GUARDA;9454;2020
+L059;Linha da Beira Baixa;Pinhel;GUARDA;Sabugal;GUARDA;24225;1999
+L060;Linha do Minho;Porto (Campanhã);PORTO;Porto (São Bento);PORTO;2840;2004
+L061;Linha do Minho;Contumil;PORTO;Rio Tinto;PORTO;2325;2013
+L062;Linha do Minho;Águas Santas;PORTO;Rio Tinto;PORTO;1674;2020
+L063;Linha do Minho;Águas Santas-Palmilheira;PORTO;Águas Santas;PORTO;203;1999
+L064;Linha do Minho;Travagem;PORTO;Águas Santas-Palmilheira;PORTO;3087;2020
+L065;Linha do Minho;Travagem;PORTO;Leandro;PORTO;1769;2018
+L066;Linha do Minho;São Frutuoso;PORTO;Leandro;PORTO;1630;2003
+L067;Linha do Minho;Sem nome #7;PORTO;São Frutuoso;PORTO;1579;2010
+L068;Linha do Minho;Sem nome #7;PORTO;São Romão;PORTO;747;2003
+L069;Linha do Minho;São Romão;PORTO;Portela;PORTO;2942;1997
+L070;Linha do Minho;Sem nome #14;PORTO;Portela;PORTO;2322;2008
+L071;Linha do Minho;Sem nome #16;PORTO;Sem nome #14;PORTO;1411;1991
+L072;Linha do Minho;Sem nome #16;PORTO;Esmeriz;BRAGA;6356;2000
+L073;Linha do Minho;Barrimau;BRAGA;Esmeriz;BRAGA;1246;2011
+L074;Linha do Minho;Famalicão;BRAGA;Barrimau;BRAGA;1852;1991
+L075;Linha do Minho;Mouquim;BRAGA;Famalicão;BRAGA;2865;1997
+L076;Linha do Minho;Louro;BRAGA;Mouquim;BRAGA;1842;1996
+L077;Linha do Minho;Carreira;BRAGA;Louro;BRAGA;6314;2008
+L078;Linha do Minho;Midões;BRAGA;Carreira;BRAGA;2950;1995
+L079;Linha do Minho;Barcelos;BRAGA;Midões;BRAGA;4242;2010
+L080;Linha do Minho;Silva;BRAGA;Barcelos;BRAGA;3727;2006
+L081;Linha do Minho;Carapeços;BRAGA;Silva;BRAGA;3199;2009
+L082;Linha do Minho;Tamel;BRAGA;Carapeços;BRAGA;2759;2003
+L083;Linha do Minho;Durrães;BRAGA;Tamel;BRAGA;5040;1991
+L084;Linha do Minho;Barroselas;VIANA DO CASTELO;Durrães;BRAGA;3124;2011
+L085;Linha do Minho;Senhora das Neves;VIANA DO CASTELO;Barroselas;VIANA DO CASTELO;1670;1990
+L086;Linha do Minho;Alvarães;VIANA DO CASTELO;Senhora das Neves;VIANA DO CASTELO;1587;2016
+L087;Linha do Minho;Darque;VIANA DO CASTELO;Alvarães;VIANA DO CASTELO;5382;2002
+L088;Linha do Minho;Areia-Darque;VIANA DO CASTELO;Darque;VIANA DO CASTELO;1553;2006
+L089;Linha do Minho;Areosa;VIANA DO CASTELO;Areia-Darque;VIANA DO CASTELO;7316;2016
+L090;Linha do Minho;Carreço;VIANA DO CASTELO;Areosa;VIANA DO CASTELO;3401;2010
+L091;Linha do Minho;Afife;VIANA DO CASTELO;Carreço;VIANA DO CASTELO;2799;2000
+L092;Linha do Minho;Âncora Praia;VIANA DO CASTELO;Afife;VIANA DO CASTELO;4613;2011
+L093;Linha do Minho;Âncora Praia;VIANA DO CASTELO;Moledo do Minho;VIANA DO CASTELO;4345;1998
+L094;Linha do Minho;Senhora da Agonia;VIANA DO CASTELO;Moledo do Minho;VIANA DO CASTELO;2976;2008
+L095;Linha do Minho;Senhora da Agonia;VIANA DO CASTELO;Caminha;VIANA DO CASTELO;904;2012
+L096;Linha do Minho;Seixas;VIANA DO CASTELO;Caminha;VIANA DO CASTELO;3067;2002
+L097;Linha do Minho;Seixas;VIANA DO CASTELO;Esqueiro;VIANA DO CASTELO;2758;2000
+L098;Linha do Minho;Gondarém;VIANA DO CASTELO;Vila Nova de Cerveira;VIANA DO CASTELO;2217;2017
+L099;Linha do Minho;Vila Nova de Cerveira;VIANA DO CASTELO;Carvalha;VIANA DO CASTELO;6540;2002
+L100;Linha do Minho;Carvalha;VIANA DO CASTELO;São Pedro da Torre;VIANA DO CASTELO;3421;1993
+L101;Linha do Minho;São Pedro da Torre;VIANA DO CASTELO;Valença;VIANA DO CASTELO;4141;1998
+L102;Concordância de Bombel;Bombel;ÉVORA;Vidigal;ÉVORA;3461;2008
+L103;Linha de Sintra;Benfica;LISBOA;Rossio;LISBOA;6524;2008
+L104;Linha de Sintra;Santa Cruz Damaia;LISBOA;Benfica;LISBOA;1190;2007
+L105;Linha de Sintra;Reboleira;LISBOA;Santa Cruz Damaia;LISBOA;936;1990
+L106;Linha de Sintra;Queluz-Belas;LISBOA;Reboleira;LISBOA;3650;1996
+L107;Linha de Sintra;Monte Abraão;LISBOA;Queluz-Belas;LISBOA;930;2017
+L108;Linha de Sintra;Massamá-Barcarena;LISBOA;Monte Abraão;LISBOA;2137;2016
+L109;Linha de Sintra;Agualva-Cacém;LISBOA;Massamá-Barcarena;LISBOA;2232;1995
+L110;Linha de Sintra;Rio de Mouro;LISBOA;Agualva-Cacém;LISBOA;3373;1993
+L111;Linha de Sintra;Mercês;LISBOA;Rio de Mouro;LISBOA;1127;2014
+L112;Linha de Sintra;Algueirão Mem Martins;LISBOA;Mercês;LISBOA;1235;1995
+L113;Linha de Sintra;Portela de Sintra;LISBOA;Algueirão Mem Martins;LISBOA;3205;2011
+L114;Linha de Sintra;Sintra;LISBOA;Portela de Sintra;LISBOA;866;1993
+L115;Linha da Beira Baixa;Entroncamento;SANTARÉM;Barquinha;SANTARÉM;3806;1998
+L116;Linha da Beira Baixa;Barquinha;SANTARÉM;Tancos;SANTARÉM;3653;2019
+L117;Linha da Beira Baixa;Tancos;SANTARÉM;Almourol;SANTARÉM;1931;1992
+L118;Linha da Beira Baixa;Almourol;SANTARÉM;Praia do Ribatejo;SANTARÉM;2548;1995
+L119;Linha da Beira Baixa;Praia do Ribatejo;SANTARÉM;Tramagal;SANTARÉM;11286;2015
+L120;Linha do Sul;Penteado;SETÚBAL;Venda do Alcaide;SETÚBAL;7734;2016
+L121;Linha do Sul;Venda do Alcaide;SETÚBAL;Sem nome #32;SETÚBAL;3477;2001
+L122;Linha do Sul;Palmela;SETÚBAL;Sem nome #32;SETÚBAL;568;1998
+L123;Linha do Sul;Praça do Quebedo;SETÚBAL;Palmela;SETÚBAL;5554;2012
+L124;Linha do Sul;Praça do Quebedo;SETÚBAL;Sem nome #31;SETÚBAL;892;2020
+L125;Linha do Sul;Sem nome #31;SETÚBAL;Sem nome #33;SETÚBAL;2338;1990
+L126;Linha do Sul;Sem nome #33;SETÚBAL;Praias do Sado A;SETÚBAL;1699;2017
+L127;Linha do Sul;Praias do Sado A;SETÚBAL;Sem nome #34;SETÚBAL;1725;2010
+L128;Linha do Sul;Sem nome #34;SETÚBAL;Mourisca - Sado;SETÚBAL;1211;2018
+L129;Linha do Sul;Mourisca - Sado;SETÚBAL;Águas de Moura;SETÚBAL;7727;1994
+L130;Linha do Algarve;Algoz;FARO;Albufeira;FARO;9608;2009
+L131;Linha do Algarve;Alcantarilha;FARO;Algoz;FARO;4194;1992
+L132;Linha do Algarve;Poço Barreto;FARO;Alcantarilha;FARO;3637;2000
+L133;Linha do Algarve;Silves;FARO;Poço Barreto;FARO;5104;2012
+L134;Linha do Algarve;Estômbar - Lagoa;FARO;Silves;FARO;6006;1993
+L135;Linha do Algarve;Ferragudo;FARO;Estômbar - Lagoa;FARO;3142;2019
+L136;Linha do Algarve;Portimão;FARO;Ferragudo;FARO;1953;2015
+L137;Linha do Algarve;Mexilhoeira Grande;FARO;Portimão;FARO;8893;1991
+L138;Linha do Algarve;Meia Praia;FARO;Mexilhoeira Grande;FARO;5403;2007
+L139;Linha do Algarve;Lagos;FARO;Meia Praia;FARO;2603;2019
+L140;Ramal de Neves Corvo;Ourique;BEJA;Desvio de Picotas;BEJA;19465;2000
+L141;Ramal de Neves Corvo;Desvio de Picotas;BEJA;Neves Corvo;BEJA;11341;2010
+L142;Concordância de Verride;Amieira;COIMBRA;Reveles;COIMBRA;4139;1998
+L143;Linha do Sul;Garvão;BEJA;Panóias;BEJA;7701;2002
+L144;Linha do Sul;Amoreiras - Odemira;BEJA;Garvão;BEJA;6622;2008
+L145;Linha do Sul;Luzianes;BEJA;Amoreiras - Odemira;BEJA;16176;2001
+L146;Linha do Sul;Santa Clara - Sabóia;BEJA;Luzianes;BEJA;12113;1993
+L147;Linha do Sul;Santa Clara - Sabóia;BEJA;Pereiras;BEJA;8502;1994
+L148;Linha do Sul;Pereiras;BEJA;São Marcos;FARO;12597;2011
+L149;Linha do Sul;São Marcos;FARO;Messines - Alte;FARO;13987;1996
+L150;Linha do Sul;Messines - Alte;FARO;Albufeira;FARO;17477;2000
+L151;Linha do Sul;Sem nome #28;LISBOA;Sete Rios;LISBOA;3751;1991
+L152;Linha do Sul;Pragal;SETÚBAL;Sem nome #28;LISBOA;5104;2000
+L153;Linha do Sul;Pragal;SETÚBAL;Corroios;SETÚBAL;5083;1997
+L154;Linha do Sul;Corroios;SETÚBAL;Fornos da Amora;SETÚBAL;2579;2003
+L155;Linha do Sul;Fornos da Amora;SETÚBAL;Fogueteiro;SETÚBAL;2769;1996
+L156;Linha do Sul;Fogueteiro;SETÚBAL;Coina;SETÚBAL;5205;2010
+L157;Linha do Sul;Coina;SETÚBAL;Penalva;SETÚBAL;5215;2012
+L158;Linha do Sul;Penalva;SETÚBAL;Venda do Alcaide;SETÚBAL;12552;2016
+L159;Linha do Sul;Pinheiro;SETÚBAL;Monte Novo - Palma;SETÚBAL;6770;2013
+L160;Linha do Sul;Monte Novo - Palma;SETÚBAL;Vale do Guizo;SETÚBAL;23043;1991
+L161;Linha do Sul;Vale do Guizo;SETÚBAL;Sem nome #35;SETÚBAL;4496;2009
+L162;Linha do Sul;Sem nome #35;SETÚBAL;Sem nome #1;SETÚBAL;2715;1998
+L163;Linha do Sul;Sem nome #1;SETÚBAL;Grândola;SETÚBAL;6929;1994
+L164;Linha do Sul;Grândola;SETÚBAL;Canal - Caveira;SETÚBAL;7891;1999
+L165;Linha do Sul;Canal - Caveira;SETÚBAL;Sem nome #29;SETÚBAL;8475;1995
+L166;Linha do Sul;Sem nome #29;SETÚBAL;Azinheira dos Barros;SETÚBAL;2993;1997
+L167;Linha do Sul;Azinheira dos Barros;SETÚBAL;Lousal;SETÚBAL;3227;1992
+L168;Linha do Sul;Lousal;SETÚBAL;Alvalade;SETÚBAL;13183;2014
+L169;Linha do Sul;Alvalade;SETÚBAL;Torre Vã;BEJA;11293;1999
+L170;Linha do Sul;Torre Vã;BEJA;Garvão;BEJA;17299;2008
+L171;Ramal Petrogal/Asfaltos;Sem nome #13;SETÚBAL;Sem nome #22;SETÚBAL;3560;2004
+L172;Linha do Algarve;Albufeira;FARO;Boliqueime;FARO;8574;2010
+L173;Linha do Algarve;Boliqueime;FARO;Loulé;FARO;8658;2012
+L174;Linha do Algarve;Loulé;FARO;Almancil;FARO;3424;2000
+L175;Linha do Algarve;Almancil;FARO;Parque das Cidades;FARO;4215;2002
+L176;Linha do Algarve;Parque das Cidades;FARO;Bom João;FARO;10368;2017
+L177;Linha do Algarve;Bom João;FARO;Olhão;FARO;7758;2012
+L178;Linha do Algarve;Olhão;FARO;Fuseta-A;FARO;8714;1992
+L179;Linha do Algarve;Fuseta-A;FARO;Fuseta;FARO;854;2007
+L180;Linha do Algarve;Fuseta;FARO;Livramento;FARO;2889;1999
+L181;Linha do Algarve;Livramento;FARO;Luz;FARO;3331;2007
+L182;Linha do Algarve;Luz;FARO;Tavira;FARO;5416;2014
+L183;Linha do Algarve;Tavira;FARO;Porta Nova;FARO;1643;2000
+L184;Linha do Algarve;Porta Nova;FARO;Conceição;FARO;4173;2007
+L185;Linha do Algarve;Conceição;FARO;Cacela;FARO;7119;1992
+L186;Linha do Algarve;Cacela;FARO;Castro Marim;FARO;5857;2017
+L187;Linha do Algarve;Castro Marim;FARO;Monte Gordo;FARO;3445;2005
+L188;Linha do Algarve;Monte Gordo;FARO;Vila Real de Santo António;FARO;2632;2015
+L189;Linha do Norte;Lisboa (Santa Apolónia);LISBOA;Braço de Prata;LISBOA;3999;1995
+L190;Linha do Norte;Braço de Prata;LISBOA;Moscavide;LISBOA;3659;2014
+L191;Linha do Norte;Moscavide;LISBOA;Sacavém;LISBOA;1979;2013
+L192;Linha do Norte;Sacavém;LISBOA;Sem nome #6;LISBOA;813;1990
+L193;Linha do Norte;Sem nome #6;LISBOA;Bobadela;LISBOA;597;2018
+L194;Linha do Norte;Bobadela;LISBOA;Sem nome #5;LISBOA;2806;2000
+L195;Linha do Norte;Sem nome #5;LISBOA;Santa Iria;LISBOA;1065;2006
+L196;Linha do Norte;Santa Iria;LISBOA;Póvoa;LISBOA;2563;2011
+L197;Linha do Norte;Póvoa;LISBOA;Alhamdra;LISBOA;8560;2010
+L198;Linha do Norte;Alhamdra;LISBOA;Vila Franca de Xira;LISBOA;4155;2000
+L199;Linha do Norte;Vila Franca de Xira;LISBOA;Castanheira do Ribatejo;LISBOA;4071;2003
+L200;Linha do Norte;Castanheira do Ribatejo;LISBOA;Carregado;LISBOA;2222;2004
+L201;Linha do Norte;Carregado;LISBOA;Sem nome #8;LISBOA;1780;1997
+L202;Linha do Norte;Sem nome #8;LISBOA;Vila Nova da Rainha;LISBOA;2316;2011
+L203;Linha do Norte;Vila Nova da Rainha;LISBOA;Espanadal da Azambuja;LISBOA;2643;1991
+L204;Linha do Norte;Espanadal da Azambuja;LISBOA;Virtudes;LISBOA;7752;1993
+L205;Linha do Norte;Virtudes;LISBOA;Reguengo;SANTARÉM;3361;2016
+L206;Linha do Norte;Reguengo;SANTARÉM;Santana - Cartaxo;SANTARÉM;6015;2001
+L207;Linha do Norte;Santana - Cartaxo;SANTARÉM;Sem nome #11;SANTARÉM;2890;2016
+L208;Linha do Norte;Sem nome #11;SANTARÉM;Vale de Santarém;SANTARÉM;3099;1993
+L209;Linha do Norte;Vale de Santarém;SANTARÉM;Santarém;SANTARÉM;8123;1998
+L210;Linha do Norte;Santarém;SANTARÉM;Vale da Figueira;SANTARÉM;9433;2020
+L211;Linha do Norte;Vale da Figueira;SANTARÉM;Mato de Miranda;SANTARÉM;9827;1995
+L212;Linha do Norte;Mato de Miranda;SANTARÉM;Riachos;SANTARÉM;8449;1992
+L213;Linha do Norte;Riachos;SANTARÉM;Entroncamento;SANTARÉM;4209;2000
+L214;Linha do Norte;Entroncamento;SANTARÉM;Soudos-Vila Nova;SANTARÉM;9792;1999
+L215;Linha do Norte;Paialvo;SANTARÉM;Sem nome #12;SANTARÉM;2226;2013
+L216;Linha do Norte;Sem nome #12;SANTARÉM;Fungalvaz;SANTARÉM;2341;2018
+L217;Linha do Norte;Fungalvaz;SANTARÉM;Chão de Macãs - Fátima;SANTARÉM;4320;2003
+L218;Linha do Norte;Chão de Macãs - Fátima;SANTARÉM;Seiça-Ourém;SANTARÉM;2957;2000
+L219;Linha do Norte;Caxarias;SANTARÉM;Seiça-Ourém;SANTARÉM;6513;1998
+L220;Linha do Norte;Albergaria dos Doze;LEIRIA;Caxarias;SANTARÉM;10295;1999
+L221;Linha do Norte;Litém;LEIRIA;Albergaria dos Doze;LEIRIA;6326;1994
+L222;Linha do Norte;Vermoil;LEIRIA;Litém;LEIRIA;5609;2014
+L223;Linha do Norte;Sem nome #15;LEIRIA;Vermoil;LEIRIA;6486;1995
+L224;Linha do Norte;Pelariga;LEIRIA;Sem nome #15;LEIRIA;7567;2002
+L225;Linha do Norte;Simões;COIMBRA;Pelariga;LEIRIA;4824;1998
+L226;Linha do Norte;Soure;COIMBRA;Simões;COIMBRA;5200;1992
+L227;Linha do Norte;Vila Nova dos Anços;COIMBRA;Soure;COIMBRA;6016;2005
+L228;Linha do Norte;Vila Nova dos Anços;COIMBRA;Formoselha;COIMBRA;9847;2007
+L229;Linha do Norte;Formoselha;COIMBRA;Pereira;COIMBRA;2111;1998
+L230;Linha do Norte;Pereira;COIMBRA;Sem nome #2;COIMBRA;1256;2015
+L231;Linha do Norte;Sem nome #2;COIMBRA;Amial;COIMBRA;2342;1999
+L232;Linha do Norte;Amial;COIMBRA;Vila Pouca do Campo;COIMBRA;1626;2020
+L233;Linha do Norte;Vila Pouca do Campo;COIMBRA;Taveiro;COIMBRA;2617;1999
+L234;Linha do Norte;Taveiro;COIMBRA;Casais;COIMBRA;1406;2004
+L235;Linha do Norte;Casais;COIMBRA;Espanadeira;COIMBRA;1239;2011
+L236;Linha do Norte;Espanadeira;COIMBRA;Bencanta;COIMBRA;1398;2002
+L237;Linha do Norte;Bencanta;COIMBRA;Coimbra-B;COIMBRA;2094;1991
+L238;Linha do Norte;Adémia;COIMBRA;Coimbra-B;COIMBRA;3197;1994
+L239;Linha do Norte;Adémia;COIMBRA;Vilela-Fornos;COIMBRA;1608;1999
+L240;Linha do Norte;Vilela-Fornos;COIMBRA;Pampilhosa;AVEIRO;9216;2013
+L241;Linha do Norte;Mealhada;AVEIRO;Pampilhosa;AVEIRO;4720;2013
+L242;Linha do Norte;Mealhada;AVEIRO;Sem nome #10;AVEIRO;1515;2006
+L243;Linha do Norte;Sem nome #10;AVEIRO;Aguim;AVEIRO;3052;2020
+L244;Linha do Norte;Curia;AVEIRO;Aguim;AVEIRO;998;2013
+L245;Linha do Norte;Paraimo-Sangalhos;AVEIRO;Curia;AVEIRO;6861;2004
+L246;Linha do Norte;Oliveira do Bairro;AVEIRO;Paraimo-Sangalhos;AVEIRO;3729;1994
+L247;Linha do Norte;Oiã;AVEIRO;Oliveira do Bairro;AVEIRO;5814;2017
+L248;Linha do Norte;Quitans;AVEIRO;Oiã;AVEIRO;7953;2002
+L249;Linha do Norte;Aveiro;AVEIRO;Quitans;AVEIRO;6770;2003
+L250;Linha do Norte;Cacia;AVEIRO;Canelas;AVEIRO;4666;2006
+L251;Linha do Norte;Salreu;AVEIRO;Canelas;AVEIRO;1425;2011
+L252;Linha do Norte;Estarreja;AVEIRO;Salreu;AVEIRO;2602;1997
+L253;Linha do Norte;Avanca;AVEIRO;Estarreja;AVEIRO;6350;2016
+L254;Linha do Norte;Valega;AVEIRO;Avanca;AVEIRO;3211;2003
+L255;Linha do Norte;Ovar;AVEIRO;Valega;AVEIRO;3807;2010
+L256;Linha do Norte;Sem nome #9;AVEIRO;Ovar;AVEIRO;5388;1991
+L257;Linha do Norte;Carvalheira-Maceda;AVEIRO;Sem nome #9;AVEIRO;1379;2008
+L258;Linha do Norte;Cortegaça;AVEIRO;Carvalheira-Maceda;AVEIRO;1833;2007
+L259;Linha do Norte;Esmoriz;AVEIRO;Cortegaça;AVEIRO;2524;1990
+L260;Linha do Norte;Paramos;AVEIRO;Esmoriz;AVEIRO;1414;2004
+L261;Linha do Norte;Paramos;AVEIRO;Silvalde;AVEIRO;1690;1993
+L262;Linha do Norte;Silvalde;AVEIRO;Espinho (Vouga);AVEIRO;1326;2010
+L263;Linha do Norte;Granja;PORTO;Sem nome #18;AVEIRO;3626;2019
+L264;Linha do Norte;Granja;PORTO;Aguda;PORTO;1413;2012
+L265;Linha do Norte;Aguda;PORTO;Miramar;PORTO;2005;2002
+L266;Linha do Norte;Miramar;PORTO;Sem nome #4;PORTO;914;2008
+L267;Linha do Norte;Sem nome #4;PORTO;Francelos;PORTO;635;2002
+L268;Linha do Norte;Francelos;PORTO;Sem nome #3;PORTO;948;2004
+L269;Linha do Norte;Sem nome #3;PORTO;Valadares;PORTO;1488;1990
+L270;Linha do Norte;Madalena;PORTO;Valadares;PORTO;1521;2013
+L271;Linha do Norte;Madalena;PORTO;Coimbrões;PORTO;1618;2005
+L272;Linha do Norte;Coimbrões;PORTO;Gaia (Genral Torres);PORTO;2396;2002
+L273;Linha do Norte;Gaia (Genral Torres);PORTO;Porto (Campanhã);PORTO;2872;1992
+L274;Linha da Beira Alta;Pampilhosa;AVEIRO;Vacariça;AVEIRO;3624;2009
+L275;Linha da Beira Alta;Vacariça;AVEIRO;Pego;AVEIRO;2270;2017
+L276;Linha da Beira Alta;Pego;AVEIRO;Sem nome #24;AVEIRO;2071;1995
+L277;Linha da Beira Alta;Sem nome #24;AVEIRO;Luso-Buçaco;AVEIRO;832;1995
+L278;Linha da Beira Alta;Luso-Buçaco;AVEIRO;Soito;VISEU;8146;2010
+L279;Linha da Beira Alta;Soito;VISEU;Monte dos Lobos;VISEU;3420;2002
+L280;Linha da Beira Alta;Monte dos Lobos;VISEU;Mortágua;VISEU;2768;2002
+L281;Linha da Beira Alta;Mortágua;VISEU;Castelezo;VISEU;16270;1997
+L282;Linha da Beira Alta;Castelezo;VISEU;Papízios;VISEU;3802;2018
+L283;Linha da Beira Alta;Papízios;VISEU;Carregal do Sal;VISEU;4335;2019
+L284;Linha da Beira Alta;Carregal do Sal;VISEU;Oliveirinha-Cabanas;VISEU;4291;1991
+L285;Linha da Beira Alta;Oliveirinha-Cabanas;VISEU;Lapa do Lobo;VISEU;4654;1990
+L286;Linha da Beira Alta;Lapa do Lobo;VISEU;Canas-Felgueira;VISEU;2052;2015
+L287;Linha da Beira Alta;Canas-Felgueira;VISEU;Moimenta;VISEU;14692;1991
+L288;Linha da Beira Alta;Moimenta;VISEU;Contenças;VISEU;9925;2020
+L289;Linha da Beira Alta;Contenças;VISEU;Gouveia;VISEU;10413;2001
+L290;Linha da Beira Alta;Gouveia;VISEU;Fornos de Algodres;GUARDA;8045;2010
+L291;Linha da Beira Alta;Fornos de Algodres;GUARDA;Sem nome #27;GUARDA;5365;1994
+L292;Linha da Beira Alta;Sem nome #27;GUARDA;Celorico da Beira;GUARDA;10298;2017
+L293;Linha da Beira Alta;Celorico da Beira;GUARDA;Baraçal;GUARDA;5229;1992
+L294;Linha da Beira Alta;Baraçal;GUARDA;Vila Franca das Neves;GUARDA;8630;2003
+L295;Linha da Beira Alta;Vila Franca das Neves;GUARDA;Pinhel;GUARDA;5440;2013
+L296;Linha da Beira Alta;Pinhel;GUARDA;Gata;GUARDA;22881;2003
+L297;Linha da Beira Alta;Gata;GUARDA;Vila Fernando;GUARDA;6500;2012
+L298;Linha da Beira Alta;Vila Fernando;GUARDA;Rochoso;GUARDA;5080;2011
+L299;Linha da Beira Alta;Rochoso;GUARDA;Cerdeira;GUARDA;3862;1999
+L300;Linha da Beira Alta;Cerdeira;GUARDA;Miuzela;GUARDA;3215;1990
+L301;Linha da Beira Alta;Miuzela;GUARDA;Noémi;GUARDA;3636;1990
+L302;Linha da Beira Alta;Noémi;GUARDA;Castelo Mendo;GUARDA;4574;1992
+L303;Linha da Beira Alta;Castelo Mendo;GUARDA;Freineda;GUARDA;6938;2008
+L304;Linha da Beira Alta;Freineda;GUARDA;Aldeia;GUARDA;2664;2012
+L305;Linha da Beira Alta;Aldeia;GUARDA;Fuentes de Onoro;ESPANHA;6370;2004
+L306;Linha do Alentejo;Barreiro;SETÚBAL;Barreiro - A;SETÚBAL;1115;1992
+L307;Linha do Alentejo;Barreiro - A;SETÚBAL;Lavradio;SETÚBAL;1257;2001
+L308;Linha do Alentejo;Lavradio;SETÚBAL;Baixa da Banheira;SETÚBAL;1244;1990
+L309;Linha do Alentejo;Baixa da Banheira;SETÚBAL;Alhos Vedros;SETÚBAL;1764;1996
+L310;Linha do Alentejo;Alhos Vedros;SETÚBAL;Moita;SETÚBAL;2784;2014
+L311;Linha do Alentejo;Moita;SETÚBAL;Penteado;SETÚBAL;3566;1991
+L312;Linha do Alentejo;Penteado;SETÚBAL;Fernando Pó;SETÚBAL;23168;2017
+L313;Linha do Alentejo;Fernando Pó;SETÚBAL;Pegões;SETÚBAL;6997;1994
+L314;Linha do Alentejo;Pegões;SETÚBAL;São João das Craveiras;SETÚBAL;3009;1999
+L315;Linha do Alentejo;São João das Craveiras;SETÚBAL;Bombel;ÉVORA;6811;2012
+L316;Linha do Alentejo;Bombel;ÉVORA;Vendas Novas;ÉVORA;5130;1991
+L317;Linha do Alentejo;Vendas Novas;ÉVORA;Torre da Gadanha;ÉVORA;18423;2010
+L318;Linha do Alentejo;Torre da Gadanha;ÉVORA;Casa Branca;ÉVORA;15185;2020
+L319;Linha do Alentejo;Casa Branca;ÉVORA;Alcáçovas;ÉVORA;11858;2018
+L320;Linha do Alentejo;Alcáçovas;ÉVORA;Sem nome #23;ÉVORA;7746;2020
+L321;Linha do Alentejo;Sem nome #23;ÉVORA;Vila Nova da Baronia;BEJA;6722;2013
+L322;Linha do Alentejo;Vila Nova da Baronia;BEJA;Alvito;BEJA;8231;2014
+L323;Linha do Alentejo;Alvito;BEJA;Cuba;BEJA;12243;2006
+L324;Linha do Alentejo;Cuba;BEJA;Beja;BEJA;16758;2018
+L325;Linha do Alentejo;Beja;BEJA;Ourique;BEJA;51191;2007
+L326;Linha do Alentejo;Panóias;BEJA;Ourique;BEJA;5973;1994
+L327;Linha de Vendas Novas;Reguengo;SANTARÉM;Morgado;SANTARÉM;5777;1994
+L328;Linha de Vendas Novas;Morgado;SANTARÉM;Muge;SANTARÉM;3038;2001
+L329;Linha de Vendas Novas;Muge;SANTARÉM;Marinhais;SANTARÉM;5433;1994
+L330;Linha de Vendas Novas;Marinhais;SANTARÉM;Sem nome #30;SANTARÉM;7574;1995
+L331;Linha de Vendas Novas;Sem nome #30;SANTARÉM;Agolada;SANTARÉM;7674;2017
+L332;Linha de Vendas Novas;Agolada;SANTARÉM;Salgueirinha;SANTARÉM;12693;1995
+L333;Linha de Vendas Novas;Salgueirinha;SANTARÉM;São Torcato;SANTARÉM;5965;2011
+L334;Linha de Vendas Novas;São Torcato;SANTARÉM;Lavre;SANTARÉM;5148;1994
+L335;Linha de Vendas Novas;Lavre;SANTARÉM;Canha;SETÚBAL;6682;1990
+L336;Linha de Vendas Novas;Canha;SETÚBAL;Vidigal;ÉVORA;7600;1996
+L337;Linha de Vendas Novas;Vidigal;ÉVORA;Vendas Novas;ÉVORA;4141;2011
+L338;Linha de Sines;São Bartolomeu da Serra;SETÚBAL;Alvalade;SETÚBAL;28599;2017
+L339;Linha de Sines;Sem nome #22;SETÚBAL;São Bartolomeu da Serra;SETÚBAL;18921;2014
+L340;Linha de Sines;Sem nome #22;SETÚBAL;Sines;SETÚBAL;10104;2013
+L341;Concordância de Xabregas;Lisboa (Santa Apolónia);LISBOA;Chelas;LISBOA;3259;1995
+L342;Linha de Évora;Casa Branca;ÉVORA;Monte das Flores;ÉVORA;20628;1995
+L343;Linha de Évora;Évora;ÉVORA;Monte das Flores;ÉVORA;5433;2017
+L344;Linha de Évora;Évora;ÉVORA;Portalegre;PORTALEGRE;122640;2004
+L345;Linha do Douro;Águas Santas-Palmilheira;PORTO;Ermesinde;PORTO;2865;2005
+L346;Linha do Douro;Ermesinde;PORTO;Cabeda;PORTO;906;2008
+L347;Linha do Douro;Cabeda;PORTO;Suzão;PORTO;3895;1995
+L348;Linha do Douro;Suzão;PORTO;Valongo;PORTO;1664;2015
+L349;Linha do Douro;Valongo;PORTO;São Martinho do Campo;PORTO;2667;2005
+L350;Linha do Douro;São Martinho do Campo;PORTO;Terronhas;PORTO;3196;2016
+L351;Linha do Douro;Terronhas;PORTO;Trancoso;PORTO;1571;1991
+L352;Linha do Douro;Trancoso;PORTO;Recarei-Sobreira;PORTO;1946;2017
+L353;Linha do Douro;Parada;PORTO;Recarei-Sobreira;PORTO;2840;2008
+L354;Linha do Douro;Parada;PORTO;Cête;PORTO;2001;1993
+L355;Linha do Douro;Cête;PORTO;Irivo;PORTO;1592;2004
+L356;Linha do Douro;Oleiros;PORTO;Irivo;PORTO;1394;2008
+L357;Linha do Douro;Oleiros;PORTO;Paredes;PORTO;1785;1998
+L358;Linha do Douro;Paredes;PORTO;Bustelo;PORTO;5842;1994
+L359;Linha do Douro;Bustelo;PORTO;Meinedo;PORTO;2255;1993
+L360;Linha do Douro;Meinedo;PORTO;Caíde;PORTO;2966;2014
+L361;Linha do Douro;Caíde;PORTO;Oliveira;PORTO;2734;2016
+L362;Linha do Douro;Oliveira;PORTO;Vila-Meã;PORTO;2094;2001
+L363;Linha do Douro;Vila-Meã;PORTO;Recesinhos;PORTO;1937;1991
+L364;Linha do Douro;Recesinhos;PORTO;Livração;PORTO;2476;2004
+L365;Linha do Douro;Livração;PORTO;Marco de Canavezes;PORTO;4632;1993
+L366;Linha do Douro;Marco de Canavezes;PORTO;Juncal;PORTO;4954;1993
+L367;Linha do Douro;Juncal;PORTO;Pala;PORTO;4948;2013
+L368;Linha do Douro;Pala;PORTO;Mosteiró;PORTO;2516;1991
+L369;Linha do Douro;Mosteiró;PORTO;Arengos;PORTO;6010;2003
+L370;Linha do Douro;Arengos;PORTO;Mirão;PORTO;3288;1998
+L371;Linha do Douro;Mirão;PORTO;Ermida;PORTO;2439;2016
+L372;Linha do Douro;Ermida;PORTO;Porto de Rei;VILA REAL;3537;2016
+L373;Linha do Douro;Porto de Rei;VILA REAL;Barqueiros;VILA REAL;3787;1995
+L374;Linha do Douro;Rede;VILA REAL;Barqueiros;VILA REAL;3203;2016
+L375;Linha do Douro;Rede;VILA REAL;Caldas de Moledo;VILA REAL;3420;1997
+L376;Linha do Douro;Caldas de Moledo;VILA REAL;Godim;VILA REAL;3777;2014
+L377;Linha do Douro;Godim;VILA REAL;Régua;VILA REAL;1485;2003
+L378;Linha do Douro;Régua;VILA REAL;Bagaúste;VILA REAL;4466;2008
+L379;Linha do Douro;Bagaúste;VILA REAL;Ferrão;VILA REAL;11462;2011
+L380;Linha do Douro;Ferrão;VILA REAL;Pinhão;VILA REAL;7611;2012
+L381;Linha do Douro;Pinhão;VILA REAL;São Mamede do Tua;VILA REAL;11595;1994
+L382;Linha do Douro;São Mamede do Tua;VILA REAL;Tua;BRAGANÇA;1403;2003
+L383;Linha do Douro;Tua;BRAGANÇA;Alegria;BRAGANÇA;5311;1997
+L384;Linha do Douro;Alegria;BRAGANÇA;Ferradosa;VISEU;6282;2010
+L385;Linha do Douro;Ferradosa;VISEU;Vargelas;VISEU;1526;2000
+L386;Linha do Douro;Vargelas;VISEU;Vesúvio;GUARDA;5313;2013
+L387;Linha do Douro;Vesúvio;GUARDA;Freixo de Numão-Mós do Douro;GUARDA;4528;2019
+L388;Linha do Douro;Freixo de Numão-Mós do Douro;GUARDA;Pocinho;GUARDA;8558;2003
+L389;Linha do Vouga;Espinho (Vouga);AVEIRO;Silvalde-Vouga;AVEIRO;1865;2016
+L390;Linha do Vouga;Silvalde-Vouga;AVEIRO;Monte de Paramos;AVEIRO;842;2006
+L391;Linha do Vouga;Monte de Paramos;AVEIRO;Lapa;AVEIRO;2063;2003
+L392;Linha do Vouga;Lapa;AVEIRO;São Paio de Oleiros;AVEIRO;1081;2002
+L393;Linha do Vouga;São Paio de Oleiros;AVEIRO;Paços de Brandão;AVEIRO;2502;2008
+L394;Linha do Vouga;Paços de Brandão;AVEIRO;Rio Meão;AVEIRO;1958;2017
+L395;Linha do Vouga;São João de Ver;AVEIRO;Rio Meão;AVEIRO;3102;1998
+L396;Linha do Vouga;São João de Ver;AVEIRO;Cavaco;AVEIRO;2618;2014
+L397;Linha do Vouga;Cavaco;AVEIRO;Safins;AVEIRO;2123;2005
+L398;Linha do Vouga;Vila da Feira;AVEIRO;Safins;AVEIRO;674;2016
+L399;Linha do Vouga;Vila da Feira;AVEIRO;Escapães;AVEIRO;1997;2003
+L400;Linha do Vouga;Escapães;AVEIRO;Arrifana;AVEIRO;2007;1990
+L401;Linha do Vouga;Arrifana;AVEIRO;São João da Madeira;AVEIRO;1361;1998
+L402;Linha do Vouga;Faria;AVEIRO;São João da Madeira;AVEIRO;2482;2018
+L403;Linha do Vouga;Faria;AVEIRO;Couto de Cucujães;AVEIRO;1243;2019
+L404;Linha do Vouga;Santiago da Riba-Ul;AVEIRO;Couto de Cucujães;AVEIRO;2156;1996
+L405;Linha do Vouga;Oliveira de Azeméis;AVEIRO;Santiago da Riba-Ul;AVEIRO;1996;2016
+L406;Linha do Vouga;Ul;AVEIRO;Oliveira de Azeméis;AVEIRO;2534;2007
+L407;Linha do Vouga;Ul;AVEIRO;Travanca;AVEIRO;2872;2008
+L408;Linha do Vouga;Figueiredo;AVEIRO;Travanca;AVEIRO;3206;1995
+L409;Linha do Vouga;Figueiredo;AVEIRO;Pinheiro da Bemposta;AVEIRO;2277;2004
+L410;Linha do Vouga;Sem nome #36;AVEIRO;Pinheiro da Bemposta;AVEIRO;2313;2011
+L411;Linha do Vouga;Branca;AVEIRO;Sem nome #36;AVEIRO;2519;1995
+L412;Linha do Vouga;Urgeiras;AVEIRO;Branca;AVEIRO;4736;2000
+L413;Linha do Vouga;Urgeiras;AVEIRO;Albergaria-a-Velha;AVEIRO;1747;2018
+L414;Linha do Vouga;Albergaria-a-Velha;AVEIRO;Sernada do Vouga;AVEIRO;6650;2014
+L415;Linha de Guimarães;Sem nome #16;PORTO;Santo Tirso;PORTO;7809;2019
+L416;Linha de Guimarães;Santo Tirso;PORTO;Caniços;BRAGA;4505;2019
+L417;Linha de Guimarães;Caniços;BRAGA;Vila das Aves;PORTO;3053;2019
+L418;Linha de Guimarães;Vila das Aves;PORTO;Giesteira;BRAGA;1659;2000
+L419;Linha de Guimarães;Giesteira;BRAGA;Lordelo;BRAGA;2686;2017
+L420;Linha de Guimarães;Lordelo;BRAGA;Cuca;BRAGA;2286;2007
+L421;Linha de Guimarães;Cuca;BRAGA;Pereirinhas;BRAGA;1580;1992
+L422;Linha de Guimarães;Pereirinhas;BRAGA;Vizela;BRAGA;1563;1997
+L423;Linha de Guimarães;Vizela;BRAGA;Nespereira;BRAGA;2764;2019
+L424;Linha de Guimarães;Nespereira;BRAGA;Covas;BRAGA;2738;2005
+L425;Linha de Guimarães;Covas;BRAGA;Guimarães;BRAGA;2432;1990
+L426;Linha do Leste;Tramagal;SANTARÉM;Bemposta;SANTARÉM;16886;2019
+L427;Linha do Leste;Bemposta;SANTARÉM;Ponte de Sôr;PORTALEGRE;16923;1999
+L428;Linha do Leste;Ponte de Sôr;PORTALEGRE;Fazenda;PORTALEGRE;3605;1999
+L429;Linha do Leste;Fazenda;PORTALEGRE;Torre das Vargens;PORTALEGRE;7369;1991
+L430;Linha do Leste;Torre das Vargens;PORTALEGRE;Chança;PORTALEGRE;9594;2013
+L431;Linha do Leste;Chança;PORTALEGRE;Mata;PORTALEGRE;6484;2011
+L432;Linha do Leste;Mata;PORTALEGRE;Crato;PORTALEGRE;9047;2016
+L433;Linha do Leste;Crato;PORTALEGRE;Portalegre;PORTALEGRE;17256;2014
+L434;Linha do Leste;Portalegre;PORTALEGRE;Assumar;PORTALEGRE;10257;1990
+L435;Linha do Leste;Assumar;PORTALEGRE;Arronches;PORTALEGRE;6447;2006
+L436;Linha do Leste;Arronches;PORTALEGRE;Santa Eulália A;PORTALEGRE;13500;2019
+L437;Linha do Leste;Santa Eulália A;PORTALEGRE;Elvas;PORTALEGRE;18219;2003
+L438;Linha do Leste;Elvas;PORTALEGRE;Badajoz;ESPANHA;16010;2004
+L439;Linha do Vouga;Sernada do Vouga;AVEIRO;Macinhata;AVEIRO;2774;2015
+L440;Linha do Vouga;Macinhata;AVEIRO;Carvalhal da Portela;AVEIRO;2173;2005
+L441;Linha do Vouga;Carvalhal da Portela;AVEIRO;Valongo-Vouga;AVEIRO;1609;2015
+L442;Linha do Vouga;Valongo-Vouga;AVEIRO;Aguieira;AVEIRO;2374;2012
+L443;Linha do Vouga;Mourisca do Vouga;AVEIRO;Aguieira;AVEIRO;1320;1990
+L444;Linha do Vouga;Mourisca do Vouga;AVEIRO;Águeda;AVEIRO;4224;2019
+L445;Linha do Vouga;Oronhe;AVEIRO;Águeda;AVEIRO;2770;2016
+L446;Linha do Vouga;Casal Álvaro;AVEIRO;Oronhe;AVEIRO;1171;2007
+L447;Linha do Vouga;Cabanões;AVEIRO;Casal Álvaro;AVEIRO;1375;1999
+L448;Linha do Vouga;Travassô;AVEIRO;Cabanões;AVEIRO;1639;1999
+L449;Linha do Vouga;Taipa-Requeixo;AVEIRO;Travassô;AVEIRO;1243;2004
+L450;Linha do Vouga;Eirol;AVEIRO;Taipa-Requeixo;AVEIRO;1194;2018
+L451;Linha do Vouga;São João do Loure;AVEIRO;Eirol;AVEIRO;2040;2004
+L452;Linha do Vouga;Eixo;AVEIRO;São João do Loure;AVEIRO;2031;2006
+L453;Linha do Vouga;Azurva;AVEIRO;Eixo;AVEIRO;2327;2000
+L454;Linha do Vouga;Esgueira;AVEIRO;Azurva;AVEIRO;2402;2004
+L455;Linha do Vouga;Aveiro;AVEIRO;Esgueira;AVEIRO;2058;1990
+L456;Ramal de Alfarelos;Bifurcação de Lares;COIMBRA;Reveles;COIMBRA;2179;1998
+L457;Ramal de Alfarelos;Reveles;COIMBRA;Verride;COIMBRA;4858;2020
+L458;Ramal de Alfarelos;Verride;COIMBRA;Marujal;COIMBRA;2427;2007
+L459;Ramal de Alfarelos;Marujal;COIMBRA;Montemor;COIMBRA;3311;2001
+L460;Ramal de Alfarelos;Montemor;COIMBRA;Formoselha;COIMBRA;4667;1990
+L461;Ramal da Lousã;Coimbra-B;COIMBRA;Coimbra;COIMBRA;1669;2017
+L462;Concordância de Agualva;Águas de Moura;SETÚBAL;Fernando Pó;SETÚBAL;13509;2016
+L463;Linha do Oeste;Mira Sintra - Meleças;LISBOA;Agualva-Cacém;LISBOA;2987;1997
+L464;Linha do Oeste;Mira Sintra - Meleças;LISBOA;Sabugo;LISBOA;5057;2002
+L465;Linha do Oeste;Sabugo;LISBOA;Sem nome #17;LISBOA;4562;1993
+L466;Linha do Oeste;Sem nome #17;LISBOA;Mafra;LISBOA;3272;2012
+L467;Linha do Oeste;Mafra;LISBOA;Sem nome #20;LISBOA;2366;2008
+L468;Linha do Oeste;Sem nome #20;LISBOA;Malveira;LISBOA;2794;2002
+L469;Linha do Oeste;Malveira;LISBOA;Jerumelo;LISBOA;3277;2000
+L470;Linha do Oeste;Jerumelo;LISBOA;Sapataria;LISBOA;4150;2016
+L471;Linha do Oeste;Sapataria;LISBOA;Pêro Negro;LISBOA;2433;1995
+L472;Linha do Oeste;Pêro Negro;LISBOA;Zimbreira;LISBOA;2320;2020
+L473;Linha do Oeste;Zimbreira;LISBOA;Feliteira;LISBOA;1956;1992
+L474;Linha do Oeste;Feliteira;LISBOA;Dois Portos;LISBOA;2513;2015
+L475;Linha do Oeste;Dois Portos;LISBOA;Runa;LISBOA;4295;1996
+L476;Linha do Oeste;Runa;LISBOA;Torres Vedras;LISBOA;4848;1992
+L477;Linha do Oeste;Torres Vedras;LISBOA;Ramalhal;LISBOA;7107;2016
+L478;Linha do Oeste;Outeiro;LISBOA;Camarão;LEIRIA;4673;2008
+L479;Linha do Oeste;Camarão;LEIRIA;Bombarral;LEIRIA;4423;2009
+L480;Linha do Oeste;Bombarral;LEIRIA;Paúl;LEIRIA;3552;2014
+L481;Linha do Oeste;Paúl;LEIRIA;São Mamede;LEIRIA;3558;2001
+L482;Linha do Oeste;São Mamede;LEIRIA;Dagorda - Peniche;LEIRIA;2665;1993
+L483;Linha do Oeste;Óbidos;LEIRIA;Dagorda - Peniche;LEIRIA;2568;2006
+L484;Linha do Oeste;Óbidos;LEIRIA;Caldas da Rainha;LEIRIA;5414;2003
+L485;Linha do Oeste;Campo-Serra;LEIRIA;Caldas da Rainha;LEIRIA;3353;1996
+L486;Linha do Oeste;Sem nome #25;LEIRIA;Campo-Serra;LEIRIA;3890;1990
+L487;Linha do Oeste;Sem nome #25;LEIRIA;Salir do Porto;LEIRIA;2520;2001
+L488;Linha do Oeste;Salir do Porto;LEIRIA;São Martinho do Porto;LEIRIA;2317;2020
+L489;Linha do Oeste;São Martinho do Porto;LEIRIA;Famalicão da Nazaré;LEIRIA;5002;2009
+L490;Linha do Oeste;Famalicão da Nazaré;LEIRIA;Cela;LEIRIA;3652;1994
+L491;Linha do Oeste;Cela;LEIRIA;Valado-Nazaré-Alcobaça;LEIRIA;4883;2007
+L492;Linha do Oeste;Valado-Nazaré-Alcobaça;LEIRIA;Fanhais;LEIRIA;5140;2010
+L493;Linha do Oeste;Fanhais;LEIRIA;Pataias;LEIRIA;3598;2000
+L494;Linha do Oeste;Pataias;LEIRIA;Martingança;LEIRIA;5354;1992
+L495;Linha do Oeste;Martingança;LEIRIA;Marinha Grande;LEIRIA;5965;1995
+L496;Linha do Oeste;Marinha Grande;LEIRIA;Leiria;LEIRIA;10027;2013
+L497;Linha do Oeste;Leiria;LEIRIA;Sem nome #26;LEIRIA;4666;1998
+L498;Linha do Oeste;Sem nome #26;LEIRIA;Monte Real;LEIRIA;7276;2011
+L499;Linha do Oeste;Monte Real;LEIRIA;Monte Redondo;LEIRIA;5161;2017
+L500;Linha do Oeste;Monte Redondo;LEIRIA;Guia;LEIRIA;6335;2016
+L501;Linha do Oeste;Guia;LEIRIA;Carriço;LEIRIA;3773;1997
+L502;Linha do Oeste;Carriço;LEIRIA;Louriçal;LEIRIA;4024;1990
+L503;Linha do Oeste;Louriçal;LEIRIA;Ribeira da Seiça;COIMBRA;5012;1999
+L504;Linha do Oeste;Ribeira da Seiça;COIMBRA;Telhada;COIMBRA;2491;1991
+L505;Linha do Oeste;Telhada;COIMBRA;Sem nome #21;COIMBRA;3250;2013
+L506;Linha do Oeste;Sem nome #21;COIMBRA;Amieira;COIMBRA;2226;2010
+L507;Linha do Oeste;Amieira;COIMBRA;Bifurcação de Lares;COIMBRA;2363;2012
+L508;Linha do Oeste;Lares;COIMBRA;Bifurcação de Lares;COIMBRA;2169;2002
+L509;Linha do Oeste;Fontela;COIMBRA;Lares;COIMBRA;2679;1994
+L510;Linha do Oeste;Fontela-A;COIMBRA;Fontela;COIMBRA;1084;2002
+L511;Linha do Oeste;Figueira da Foz;COIMBRA;Fontela-A;COIMBRA;1939;2010
+L512;Concordância de Sete Rios;Benfica;LISBOA;Sete Rios;LISBOA;3107;2007
+L513;Linha de Cascais;Santos;LISBOA;Cais do Sodré;LISBOA;867;1993
+L514;Linha de Cascais;Alcantâra-Mar;LISBOA;Santos;LISBOA;1719;1997
+L515;Linha de Cascais;Belém;LISBOA;Alcantâra-Mar;LISBOA;2196;2006
+L516;Linha de Cascais;Algés;LISBOA;Belém;LISBOA;2940;2018
+L517;Linha de Cascais;Cruz Quebrada;LISBOA;Algés;LISBOA;1986;2004
+L518;Linha de Cascais;Caxias;LISBOA;Cruz Quebrada;LISBOA;1970;2015
+L519;Linha de Cascais;Paço de Arcos;LISBOA;Caxias;LISBOA;1443;2012
+L520;Linha de Cascais;Santo Amaro de Oeiras;LISBOA;Paço de Arcos;LISBOA;2365;2000
+L521;Linha de Cascais;Oeiras;LISBOA;Santo Amaro de Oeiras;LISBOA;638;1991
+L522;Linha de Cascais;Carcavelos;LISBOA;Oeiras;LISBOA;1601;1993
+L523;Linha de Cascais;Parede;LISBOA;Carcavelos;LISBOA;1705;2008
+L524;Linha de Cascais;São Pedro do Estoril;LISBOA;Parede;LISBOA;1549;2012
+L525;Linha de Cascais;São João do Estoril;LISBOA;São Pedro do Estoril;LISBOA;1457;2007
+L526;Linha de Cascais;Estoril;LISBOA;São João do Estoril;LISBOA;1149;1990
+L527;Linha de Cascais;Monte Estoril;LISBOA;Estoril;LISBOA;688;1995
+L528;Linha de Cascais;Cascais;LISBOA;Monte Estoril;LISBOA;1077;2008
+L529;Linha do Oeste;Outeiro;LISBOA;Ramalhal;LISBOA;6909;2011
+L530;Linha do Norte;Paialvo;SANTARÉM;Soudos-Vila Nova;SANTARÉM;4571;2002
+L531;Linha do Norte;Aveiro;AVEIRO;Cacia;AVEIRO;5937;2000
+L532;Linha do Norte;Espinho (Vouga);AVEIRO;Sem nome #18;AVEIRO;491;2011
+L533;Concordância de São Gemil;Sem nome #19;PORTO;Travagem;PORTO;2173;2009
+L534;Linha da Beira Baixa;Barca da Amieira Envendos;SANTARÉM;Fratel;CASTELO BRANCO;15805;1995
+L535;Linha da Beira Baixa;Belmonte-Manteigas;CASTELO BRANCO;Maçainhas;CASTELO BRANCO;8170;2013
+L536;Linha do Minho;Esqueiro;VIANA DO CASTELO;Gondarém;VIANA DO CASTELO;2854;2008
+L537;Linha do Minho;Valença;VIANA DO CASTELO;Tui;ESPANHA;4050;1992
+L538;Linha de Sines;São Bartolomeu da Serra;SETÚBAL;Lousal;SETÚBAL;26196;2014
+L539;Linha do Sul;Pinheiro;SETÚBAL;Águas de Moura;SETÚBAL;13370;2001
+L540;Linha do Minho;Contumil;PORTO;Porto (Campanhã);PORTO;2264;1997
